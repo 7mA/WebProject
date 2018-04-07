@@ -1,0 +1,9 @@
+.font-gray{
+    color: darkgray;
+}
+
+.trp{
+    filter:alpha(opacity=95); /*IE滤镜，透明度95%*/
+    -moz-opacity:0.95; /*Firefox私有，透明度95%*/
+    opacity:0.95;/*其他，透明度95%*/
+}
